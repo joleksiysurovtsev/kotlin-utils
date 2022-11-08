@@ -30,3 +30,5 @@ _**🧪 Основы Mockito: Метод Mockito.when для определен�
 ⭐⭐⭐ [🧪 **_Як протестувати будь-який HTTP-клієнт вашої завантажувальної програми Spring за допомогою MockServer_**](https://jschmitz.dev/posts/how_to_test_any_http_client_of_your_spring_boot_application_with_mock_server/)<img src="../img/jschmitz.png" style="height:15px;"/>
 
 [🧪 **_How to Automate Tests for Spring Boot API using MockServer_**](https://medium.com/@gavinklfong/how-to-automate-tests-for-spring-boot-api-using-mockserver-c6221ea8c549)<img src="../img/medium.png" style="height:15px;"/>
+
+[🧪 **_Mocking a RestTemplate in Spring_**](https://www.baeldung.com/spring-mock-rest-template)<img src="../img/baeldung.png" style="height:15px;"/>
