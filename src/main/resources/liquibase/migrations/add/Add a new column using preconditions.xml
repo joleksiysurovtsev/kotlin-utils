@@ -7,9 +7,10 @@
         objectQuotingStrategy="QUOTE_ONLY_RESERVED_WORDS">
 
 <!--    Add a new column using preconditions.xml   -->
-
+<!-- @see https://docs.liquibase.com/concepts/changelogs/preconditions.html  -->
     <changeSet id="1660902414860-1" author="o.surovtsev">
 <!--    Assuming the `customer_details` table exists      -->
+<!--    onFail/onError    -->
 <!--    onFail="CONTINUE" Skips over the changeset. Execution of the changeset will be attempted again on the next update. Continues with the changelog.-->
 <!--    onFail="HALTS" the execution of the entire changelog (default). HALT can be put outside a changeset (e.g. at the beginning of the changelog).-->
 <!--    onFail="MARK_RAN" Skips over the changeset but mark it as executed. Continues with the changelog.-->

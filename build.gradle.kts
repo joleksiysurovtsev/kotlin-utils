@@ -21,6 +21,10 @@ dependencies {
 	implementation("org.springframework.boot:spring-boot-starter")
 	implementation("org.jetbrains.kotlin:kotlin-reflect")
 	implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8")
+
+	implementation("com.fasterxml.jackson.core:jackson-databind:2.14.0")
+	implementation("com.google.code.gson:gson:2.10")
+
 	testImplementation("org.springframework.boot:spring-boot-starter-test")
 }
 
