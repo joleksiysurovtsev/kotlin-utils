@@ -32,3 +32,5 @@ _**🧪 Основы Mockito: Метод Mockito.when для определен�
 [🧪 **_How to Automate Tests for Spring Boot API using MockServer_**](https://medium.com/@gavinklfong/how-to-automate-tests-for-spring-boot-api-using-mockserver-c6221ea8c549)<img src="../img/medium.png" style="height:15px;"/>
 
 [🧪 **_Mocking a RestTemplate in Spring_**](https://www.baeldung.com/spring-mock-rest-template)<img src="../img/baeldung.png" style="height:15px;"/>
+
+⭐⭐⭐ [🧪 **_Best Practices for Unit Testing in Kotlin_**](https://phauer.com/2018/best-practices-unit-testing-kotlin/)<img src="../img/phauer.png" style="height:15px;"/>
