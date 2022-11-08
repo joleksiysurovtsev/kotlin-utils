@@ -25,4 +25,8 @@ _**🧪 Основы Mockito: Метод Mockito.when для определен�
 
 [🧪 **_Тестирование JUnit. Примеры_**](https://www.bestprog.net/ru/2021/09/20/java-junit-testing-example-ru/) <img src="../img/bestprog.png" style="height:15px;"/>
 
-[🧪  **_MockServer_**](https://www.mock-server.com/) <img src="../img/mock-server.png" style="height:15px;"/>
+⭐⭐⭐ [🧪  **_MockServer_**](https://www.mock-server.com/) <img src="../img/mock-server.png" style="height:15px;"/>
+
+⭐⭐⭐ [🧪 **_Як протестувати будь-який HTTP-клієнт вашої завантажувальної програми Spring за допомогою MockServer_**](https://jschmitz.dev/posts/how_to_test_any_http_client_of_your_spring_boot_application_with_mock_server/)<img src="../img/jschmitz.png" style="height:15px;"/>
+
+[🧪 **_How to Automate Tests for Spring Boot API using MockServer_**](https://medium.com/@gavinklfong/how-to-automate-tests-for-spring-boot-api-using-mockserver-c6221ea8c549)<img src="../img/medium.png" style="height:15px;"/>
